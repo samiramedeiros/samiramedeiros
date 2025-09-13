@@ -1,18 +1,22 @@
-<img width="772" height="214" alt="dino game GIF" src="https://github.com/user-attachments/assets/6df6e36f-f854-4cc7-a049-ed2f84a79b48" />
+<img width="772" height="214" alt="dino game GIF" src="https://github.com/user-attachments/assets/3303ec6f-12cf-492b-b777-2bbc2586197d" />
 
 
-
+    
 # Olá! Seja bem-vindo(a) 👋🏻
 
 Me chamo Samira, tenho 26 anos e moro em Poá-SP.
 
-• 👩🏻‍💻 Engenheira de Dados Jr
+<ul>
+  <li>👩🏻‍💻 Engenheira de Dados Jr</li>
+  <li>👩🏻‍🎓 Graduada em Análise e Desenvolvimento de Sistemas</li>
+  <li>📚 Estudando 
+    <a href="https://www.udemy.com/course/engenharia-de-dados-com-python/" target="_blank">Engenharia de Dados</a> 
+    e 
+    <a href="https://web.dio.me/track/santander-code-girls-2025" target="_blank">AWS Cloud Foundations</a>
+  </li>
+  <li>🎸 Apaixonada por instrumentos musicais</li>
+</ul>
 
-• 👩🏻‍🎓 Graduada em "[Análise e Desenvolvimento de Sistemas](https://www.youtube.com/@larissakich)"
-
-• 📚 Estudando [Engenharia de Dados](https://www.udemy.com/course/engenharia-de-dados-com-python/learn/lecture/42086984?components=add_to_cart%2Cavailable_coupons%2Cbase_purchase_section%2Cbuy_button%2Cbuy_for_team%2Ccacheable_buy_button%2Ccacheable_deal_badge%2Ccacheable_discount_expiration%2Ccacheable_price_text%2Ccacheable_purchase_text%2Ccurated_for_ufb_notice_context%2Ccurriculum_context%2Cdeal_badge%2Cdiscount_expiration%2Cgift_this_course%2Cincentives%2Cinstructor_links%2Clifetime_access_context%2Cmoney_back_guarantee%2Cprice_text%2Cpurchase_tabs_context%2Cpurchase%2Crecommendation%2Credeem_coupon%2Csidebar_container%2Cpurchase_body_container%2Cone_click_checkout&couponCode=2021PM25#overview) e [AWS Cloud Foundations](https://web.dio.me/track/santander-code-girls-2025)
-
-• 🎸 Amante de instrumentos musicais
 
 # 🖥️ Tecnologias e Ferramentas: 
 
@@ -50,8 +54,8 @@ Me chamo Samira, tenho 26 anos e moro em Poá-SP.
 />
 <img 
     align="left" 
-    alt="Postgresql"
-    title="Postgresql" 
+    alt="PostgreSQL"
+    title="PostgreSQL" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
@@ -66,16 +70,16 @@ Me chamo Samira, tenho 26 anos e moro em Poá-SP.
 />
 <img 
     align="left" 
-    alt="microsoftsqlserver"
-    title="microsoftsqlserver" 
+    alt="Microsoft SQL Server"
+    title="Microsoft SQL Server" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
 />
 <img 
     align="left" 
-    alt="anaconda" 
-    title="anaconda"
+    alt="Anaconda" 
+    title="Anaconda"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" 
@@ -88,7 +92,11 @@ Me chamo Samira, tenho 26 anos e moro em Poá-SP.
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
 />
-### 📊 Estatísticas
+
+<br/>
+<br/>
+
+# 📊 Estatísticas
 
 <p>
   <img 
