@@ -1,10 +1,6 @@
-<img   
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 1000px;" 
-    src="[https://share.google/images/r9CYAPzPLvF5sHc16](https://www.google.com/imgres?imgurl=https%3A%2F%2Fraw.githubusercontent.com%2Fumapornp%2Fumapornp%2Fmain%2Fassets%2Fgoogle-dinosaur-game.gif&tbnid=3Lf9FkuXK0VAcM&vet=1&imgrefurl=https%3A%2F%2Fgithub.com%2Fumapornp&docid=BMhboijM2vOsVM&w=772&h=214&hl=pt&source=sh%2Fx%2Fim%2Fm5%2F5&kgs=8d109343d713f913&shem=isst)"  
-/>
+<img width="772" height="214" alt="dino game GIF" src="https://github.com/user-attachments/assets/6df6e36f-f854-4cc7-a049-ed2f84a79b48" />
+
+
 
 # Olá! Seja bem-vindo(a) 👋🏻
 
