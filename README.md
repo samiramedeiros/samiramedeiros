@@ -3,9 +3,8 @@
 <img width="1059" height="318" alt="WELCOME" src="https://github.com/user-attachments/assets/1494a241-07f0-4733-8d5f-4b7d44695470" />
 
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFB6C1&size=30&center=true&vCenter=true&width=600&lines=Seja+bem-vindo(a)+ao+meu+perfil+👋🏻&repeat=true)
 
-
-<h1 align="left">Seja bem-vindo(a) ao meu perfil 👋🏻</h1>
 
 ###
 
@@ -142,7 +141,13 @@
   </a>
 </div>
 
-
+<br>
+</br>
+<br>
+</br>
+<br>
+</br>
 <br>
 </br>
 
+# 💜 Muito obrigada pela visita! Foi tudo com carinho 💜
