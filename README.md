@@ -12,13 +12,13 @@
 <img align="right" width="175" height="230" alt="pink_panther-removebg-preview" src="https://github.com/user-attachments/assets/73448a35-d9aa-4fd1-b242-e3a7d9083301" />
 
 <ul>
-<li>Me chamo Samira, tenho 26 anos e moro em Poá, SP.</li>
-<li>Sou graduada em <b>Análise e Desenvolvimento de Sistemas</b>.</li>
-<li>No momento, estou me aprofundando em 
+<li>🙋🏻‍♀️ Me chamo Samira, tenho 26 anos e moro em Poá, SP.</li>
+<li>👩🏻‍🎓 Sou graduada em <b>Análise e Desenvolvimento de Sistemas</b>.</li>
+<li>📚 No momento, estou me aprofundando em 
     <a href="https://www.udemy.com/course/engenharia-de-dados-com-python/" target="_blank">Engenharia de Dados</a> 
     e 
     <a href="https://web.dio.me/track/santander-code-girls-2025" target="_blank">AWS Cloud Foundations</a></li>
-<li>Gosto de instrumentos musicais, gatos e piadas ruins (eu posso fazer algumas com uma certa frequência).</li>
+<li>💖 Gosto de instrumentos musicais, gatos e piadas ruins (eu posso fazer algumas com uma certa frequência).</li>
 
 <p></p>
 <p>Ps: Deixe a página no Modo Escuro, pois meu gatinho está dormindo 🤪😸</p>
