@@ -150,4 +150,4 @@
 <br>
 </br>
 
-# 💜 Muito obrigada pela visita! Foi tudo com carinho 💜
+<div>💜 Muito obrigada pela visita! Foi tudo com carinho 💜</div>
