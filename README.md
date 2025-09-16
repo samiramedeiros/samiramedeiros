@@ -141,13 +141,12 @@
   </a>
 </div>
 
-<br>
-</br>
-<br>
-</br>
-<br>
-</br>
-<br>
-</br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 
-<div>💜 Muito obrigada pela visita! Foi tudo com carinho 💜</div>
+<img width="1059" height="218" alt="WELCOME (2) copia" src="https://github.com/user-attachments/assets/3c39c517-270d-4164-a952-584b17758d6b" />
+
+
