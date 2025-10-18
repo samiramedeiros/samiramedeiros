@@ -5,10 +5,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFB6C1&size=30&center=true&vCenter=true&width=600&lines=Seja+bem-vindo(a)+ao+meu+perfil+👋🏻&repeat=true)
 
-
 ###
-
-<img align="right" width="175" height="230" alt="pink_panther-removebg-preview" src="https://github.com/user-attachments/assets/73448a35-d9aa-4fd1-b242-e3a7d9083301" />
 
 <ul>
 <li>🙋🏻‍♀️ Me chamo Samira, tenho 26 anos e moro em Poá, SP.</li>
@@ -17,7 +14,7 @@
     <a href="https://www.udemy.com/course/engenharia-de-dados-com-python/" target="_blank">Engenharia de Dados</a> 
     e 
     <a href="https://web.dio.me/track/santander-code-girls-2025" target="_blank">AWS Cloud Foundations</a></li>
-<li>💖 Gosto de instrumentos musicais, gatos e piadas ruins (eu posso fazer algumas com uma certa frequência).</li>
+<li>💖 Gosto de instrumentos musicais e gatos.</li>
 
 <p></p>
 <p>Ps: Deixe a página no Modo Escuro, pois meu gatinho está dormindo 🤪😸</p>
@@ -26,11 +23,14 @@
 
 <br>
 
+<div align="center">
+    
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samiramedeirosc@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samiramedeirosc/)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1199110507559403541)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samiramedeiros/)
 
+</div>
 
 
 ###
